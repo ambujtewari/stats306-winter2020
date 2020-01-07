@@ -1,0 +1,4 @@
+install.packages("tidyverse")
+install.packages("dslabs")
+install.packages("matlab")
+install.packages("hexbin")
