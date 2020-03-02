@@ -6,4 +6,4 @@
 
 * After you done with running your code, use `Ctrl` or `Command` + `p` then click `save as pdf` to save your homework as pdf file. Do not use pdf exporter feature of jupyter! You are not going to upload your `.ipynb` file we just need the `.pdf`.
 
-* Use Slack hw2 channel to discuss the problems. But please be careful not to post an answer or part of an answer.
+* Use Slack hw3 channel to discuss the problems. But please be careful not to post an answer or part of an answer.
