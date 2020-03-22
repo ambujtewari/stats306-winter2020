@@ -1,6 +1,0 @@
-install.packages("tidyverse")
-install.packages("dslabs")
-install.packages("matlab")
-install.packages("hexbin")
-install.packages("htmlwidgets")
-install.packages("nycflights13")
