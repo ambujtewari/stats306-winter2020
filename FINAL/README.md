@@ -1,6 +1,6 @@
 # List of allowed resources
 
-You are allowed to use R in RStudio or a Jupyter notebook running on your computer or the cloud (including mybinder.org and google colab) during the exam (and you can use commands like “?filter” to access the built-in help). You are allowed to use the following internet websites open in your browser:
+You are allowed to use R in RStudio or a Jupyter notebook running on your computer or the cloud (including mybinder.org and google colab) during the exam (and you can use commands like `?filter` to access the built-in help). You are allowed to use the following internet websites open in your browser:
 
 - Canvas website for the course
 - book website (physical copy is also fine): http://r4ds.had.co.nz/
