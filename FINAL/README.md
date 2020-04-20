@@ -21,7 +21,7 @@ You are allowed to use R in RStudio or a Jupyter notebook running on your comput
 - Lab websites:
   - https://enesdilber.github.io/stats306w20
   - https://rogerfan.github.io/stats306_w20/
-  - https://yifanjin328.github.io/class
+  - https://yifanjin328.github.io/
 - lecture notebooks on github: https://github.com/ambujtewari/stats306-winter2020
 - tidyverse website: https://www.tidyverse.org/
 - R documentation website: https://www.rdocumentation.org/
